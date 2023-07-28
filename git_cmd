@@ -1,4 +1,7 @@
 git add exemple.file : indexation of exemple.file
 git commit -m "creation project" : creating a new version
+git remote add origin https://github.com/OWNER/REPOSITORY.git : adding a new remote with the name origin and a remote URL https://github.com/OWNER/REPOSITORY.git (can use ssh with (ssh-keygen for generating a key).
+git remote -v : Verify new remote
+git remote set-url origin git@github.com:OWNER/REPOSITORY.git (change url, here updating with ssh))
 git push origin main : send the new version to the remote repository
 
