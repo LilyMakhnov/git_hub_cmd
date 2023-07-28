@@ -2,3 +2,4 @@ git add exemple.file : indexation of exemple.file
 git commit -m "creation project" : creating a new version
 git push origin main : send the new version to the remote repository
 
+git clone git@github.com:LilyMakhnov/git_hub_cmd.git: clone a repository into a new directory
