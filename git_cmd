@@ -1,0 +1,4 @@
+git add exemple.file : indexation of exemple.file
+git commit -m "creation project" : creating a new version
+git push origin main : send the new version to the remote repository
+
